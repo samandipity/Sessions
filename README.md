@@ -6,17 +6,17 @@ Something I built with a keyboard.
 
 ## Website Details
 
--   Title:
+-   Title: Adjust Yourself
 -   Description Long:
 -   Description Short:
--   Name:
--   Address:
+-   Name: Samantha Duckworth
+-   Address: The White House, Flat 1, 30 Well Street, Great Torrington. EX38 8EP
 
 #### Blurb
 
 Explore the dynamic mechanics of your inner mind, dive deep into your subconscious, access and adjust yourself with the help of hypnosis.
 
-### Random Information
+### Pipeline Ideas
 
 Part of the offer with hypnotherapy tends to be personalised recordings of the session, so was thinking they could be uploaded to the clients dashboard like a little playlist or whatever
 
