@@ -16,7 +16,7 @@ Something I built with a keyboard.
 
 Explore the dynamic mechanics of your inner mind, dive deep into your subconscious, access and adjust yourself with the help of hypnosis.
 
-### Random Information
+### Pipeline Ideas
 
 Part of the offer with hypnotherapy tends to be personalised recordings of the session, so was thinking they could be uploaded to the clients dashboard like a little playlist or whatever
 
@@ -35,6 +35,10 @@ A. 90 minutes, initially. (Self Assessment session is 90 minutes, the others I h
 
 Q. What action after client has booked a slot?  
 A. I will have to draft a welcome email, what to expect etc. A reminder text or email would also be good.
+
+Q. How many sessions can a client book?
+A. There are currently 2 different sessions available, soon to be 3.
+   Client can book sessions no less than 4 days a part, once a week is optimal.
 
 * * *
 
